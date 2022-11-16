@@ -180,15 +180,8 @@ const userData = {
       desc: 'Worked as a web developer on various application like IoT with HTML, CSS, jQuery, Angular, MVC .Net',
     },
     {
-      title: 'UI Developer',
-      company: 'Ubincore',
-      year: '2017 - 2017',
-      companyLink: '#',
-      desc: 'Worked as a UI Developer in a start-up company and freelancer.',
-    },
-    {
       title: 'MBA',
-      company: 'Madurai Kamaraj University',
+      company: 'Madurai Kamaraj University (Part-time)',
       year: '2016 - 2018',
       companyLink: 'https://mkuniversity.ac.in/new/',
       desc: 'Major in Systems Managment.',
