@@ -18,12 +18,12 @@ const AboutMe: React.FC = () => {
             {userData.about.title}. Currently working at{' '}
             <a
               rel="noreferrer"
-              className="bg-orange-600 rounded-md px-2 py-1 text-white"
+              className="bg-red-600 rounded-md px-2 py-1 text-white"
               href={userData.about.currentProjectUrl}
             >
               {userData.about.currentProject}{' '}
               <Image
-                src={'/assets/images/optum_logo.png'}
+                src={'/assets/images/adobe_short_logo.png'}
                 alt="Optum Logo"
                 width={50}
                 height={50}

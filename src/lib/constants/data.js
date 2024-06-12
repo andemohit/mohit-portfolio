@@ -56,8 +56,8 @@ const userData = {
       `After I've started working as freelancer. As a freelancer I've build more than 50+ web applications and couple of mobile applications too.`,
       `But now, I'm a legend. I've been coding in React, React Native, Angular, NextJS, Typescript, Node.js, Express, Fastify, NestJS, WebdriverIO Mocha, Cypress, Selenium, Cucumber, Java, Flutter, MongoDB, MySQL, Bootstrap, Tailwind, PHP, Photoshop, Adobe Illustrator, Adobe XD, Figma. Although I barely know the syntax (💁‍♂️ Stack overflow), I consider myself a Ninja developer.`,
     ],
-    currentProject: 'Optum',
-    currentProjectUrl: 'https://www.optum.com/',
+    currentProject: 'Adobe',
+    currentProjectUrl: 'https://www.adobe.com/',
   },
   techStack: [
     {
@@ -110,7 +110,11 @@ const userData = {
     },
     {
       title: 'Java',
-      link: '/assets/images/tech_stack/java.png',
+      link: '/assets/images/tech_stack/java.svg',
+    },
+    {
+      title: 'Spring Boot',
+      link: '/assets/images/tech_stack/spring.svg',
     },
     {
       title: 'Mocha',
