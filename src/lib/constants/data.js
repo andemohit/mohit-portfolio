@@ -159,9 +159,16 @@ const userData = {
   ],
   experience: [
     {
+      title: 'Senior Technical Consultant',
+      company: 'Adobe',
+      year: 'June 2023 - Present',
+      companyLink: 'https://www.adobe.com/',
+      desc: 'Develop E-commerce applications using React.js, TypeScript, Node.js, Java, Spring Boot, and AEM. Implemented mobile-first, responsive interfaces to enhance user experience and integrated front-end functionalities with backend logic. Built reusable UI components with Storybook and used Handlebars.js for dynamic content generation. Seamlessly integrated components with Adobe Experience Manager and followed Agile methodologies to deliver features on schedule for Adobe',
+    },
+    {
       title: 'Senior Software Engineer',
       company: 'UnitedHealth Group',
-      year: 'May 2021 - Present',
+      year: 'May 2021 - June 2023',
       companyLink: 'https://www.unitedhealthgroup.com/',
       desc: 'Leading and Managing support model for operations and maintenance using React, Angular, NodeJS, MVC, Web API used for developing Medical Document Indexing project implementation for United Health Group',
     },
